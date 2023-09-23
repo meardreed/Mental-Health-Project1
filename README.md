@@ -1,5 +1,5 @@
-Project Title
-Correlation between mental health and physical activity in adults in the US
+
+## Correlation between mental health and physical activity in adults in the US
 
 Project Summary
 Analysis of suicide and, depression rates by US states to observe if related to the level of  physical activity of the population for the years 2018 to 2020.
@@ -14,6 +14,7 @@ Link to presentation
 [Correlation between mental health and physical activity in.pptx](https://onedrive.live.com/edit.aspx?resid=921A387115EEA9DC!2679&ithint=file%2cpptx&authkey=!AHEiHTV0GrzYxEg)
 
 How-to-Run Guide
+
 Libraries used: Matplotlib, Pandas, Numpy, Scipy.stats
 We have saved all csv files under the data folder. Some of the csv files, we cleaned up using Microsoft Excel. We used filter, vlookup, and pivot table. The depression csv file is saved as Adults_Depression_S.csv, suicide csv file is saved as Suicide.csv, and physical activity is saved as Physical_activity.csv.
 Our main project is under the project folder, under suicide folder. All of the work related to depression data is done under Depression.ipynb, and the suicide data is under Suicide.ipynb. Suicide_Depression.ipynb was added to look for relationship between depression rates and suicide rates.
